@@ -239,4 +239,4 @@ This repository serves as the official landing page for TestDisk. The software i
 **Get the most recent version of TestDisk today!**
 
 ---
-**Last updated:** 2026-10-14 21:12:21 UTC
+**Last updated:** 2026-10-15 00:15:07 UTC
